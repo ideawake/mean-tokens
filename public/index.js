@@ -1,3 +1,3 @@
 'use strict';
 
-import './assets/css/tokens.css';
+require('./assets/css/tokens.css');
